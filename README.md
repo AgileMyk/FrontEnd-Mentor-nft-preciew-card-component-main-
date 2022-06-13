@@ -1,3 +1,6 @@
+Wecond challenge done! Used rem for text sizing throughout. Used more position relative for effects. Used more mouseover syntax.
+
+
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
