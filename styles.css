@@ -458,5 +458,13 @@ body {
   
   
     @media screen and (min-width: 376px) {
-  
+        main {
+            box-shadow: 8px 8px 18px 32px rgba(12, 12, 12, .4);
+        }
+    }
+
+    @media screen and (min-width: 752px) {
+        main {
+            box-shadow: 8px 8px 18px 32px rgba(12, 12, 12, .4), 16px 6px 32px 64px rgba(4, 14, 61, 0.5);
+        }
     }
