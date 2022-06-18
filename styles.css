@@ -280,8 +280,7 @@ body {
     }
   
     .img-container {
-      /* background-image: url(/images/image-equilibrium.jpg); */
-        background-image: src="/images/image-equilibrium.jpg";
+      background-image: url(../images/image-equilibrium.jpg);
       background-size: cover;
       border-radius: 17.5px;
       height: 100%;
@@ -294,7 +293,7 @@ body {
     }
 
     .hover-eye {
-      /*  background-image: url('/images/icon-view.svg');
+      /*  background-image: url('../images/icon-view.svg');
         background-size: 17.5%;
         position: relative;
         left: 41.5%;
@@ -308,7 +307,7 @@ body {
 
     .hover-eye:before {
         display: inline-block;
-        background-image: url('/images/icon-view.svg');
+        background-image: url('../images/icon-view.svg');
         content: '';
         position: relative;
         left: 41.5%;
