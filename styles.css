@@ -280,7 +280,8 @@ body {
     }
   
     .img-container {
-      background-image: url(/images/image-equilibrium.jpg);
+      /* background-image: url(/images/image-equilibrium.jpg); */
+        background-image: src="/images/image-equilibrium.jpg";
       background-size: cover;
       border-radius: 17.5px;
       height: 100%;
